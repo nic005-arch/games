@@ -42,7 +42,7 @@ Run the game with the following command:
     ```
 
 Make sure you are in the project directory where `main.py` is located.
-if thisi is the first time you run the game , it will automatically download all the cards trouh an http api , so be patient the operation could take a couple of minutes
+if this is the first time you run the game , it will automatically download all the cards trouh an http api , so be patient the operation could take a couple of minutes
 
 ## How to Play
 
