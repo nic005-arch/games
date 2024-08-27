@@ -58,7 +58,7 @@ Adjust the command based on your programming language or framework.
 ### Playing Against the Bot
 
 - The bot uses the **Minimax algorithm** to make the best possible moves.
-- The bot's difficulty is consistent, providing a challenging experience.
+- the bot has two difficulty levels, to change them just press 0 for the easy level and 1 for the difficult level. the bot is automatically set to difficulty 1
 
 
 Enjoy the game!
