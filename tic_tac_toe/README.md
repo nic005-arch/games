@@ -45,11 +45,6 @@ Run the game with the following command:
     python tic_tac_toe.py
     ```
 
-- For JavaScript (Node.js):
-
-    ```bash
-    node tic_tac_toe.js
-    ```
 
 Adjust the command based on your programming language or framework.
 
