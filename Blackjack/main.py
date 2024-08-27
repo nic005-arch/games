@@ -4,6 +4,12 @@ from time import sleep
 import pygame
 import sys
 from libs.start import *
+from assets import c 
+
+if not os.path.exists("./assets/cards"):
+    print("Carte non trovate, estraggo le carte")
+    c.get_cards("./assets/cards")
+
 
 pygame.init()
 pygame.font.init()
