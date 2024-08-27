@@ -26,8 +26,10 @@ To get started with the Blackjack game, follow these steps:
     ```
 
 3. **Install dependencies:**
-
-    The project uses standard Python libraries, so no additional packages are required. However, ensure you have Python installed. If you don't, you can download it from [python.org](https://www.python.org/downloads/).
+    ```bash
+    cd blackjack-python
+    ```
+    
 
 ## Usage
 
