@@ -36,10 +36,10 @@ Run the game with the following command:
 - For Python 3:
 
     ```bash
-    python blackjack.py
+    python main.py
     ```
 
-Make sure you are in the project directory where `blackjack.py` is located.
+Make sure you are in the project directory where `main.py` is located.
 
 ## How to Play
 
