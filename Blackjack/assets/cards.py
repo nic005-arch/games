@@ -29,3 +29,4 @@ for suit in suits:
         url = base_url + card_code + ".png"
         filepath = os.path.join('cards', card_code + ".png")
         download_image(url, filepath)
+download_immage("https://deckofcardsapi.com/static/img/back.png",os.path.join('cards', "back" + ".png")
